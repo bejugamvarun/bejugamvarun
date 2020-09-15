@@ -22,6 +22,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bejugamvarun&show_icons=true&theme=dracula)
 
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [website]: https://bejugamvarun.github.io
 [twitter]: https://twitter.com/Bejugamvarun
 [linkedin]: https://www.linkedin.com/in/bejugamvarun
