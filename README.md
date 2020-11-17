@@ -26,7 +26,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         56 mins         █████████████████████░░░░   84.33 % 
+Git Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
 
