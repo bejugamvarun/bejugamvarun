@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at 💻 [Virtusa](https://www.virtusa.com/) 
+<!-- - 🔭 I’m currently working at 💻 [Virtusa](https://www.virtusa.com/) -->
 - 🌱 I’m currently learning Natutral Language Processing
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 💬 Ask me about ML
