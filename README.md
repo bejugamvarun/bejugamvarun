@@ -26,9 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other      11 mins         ████████████░░░░░░░░░░░░░   47.66 % 
-Go         9 mins          ██████████░░░░░░░░░░░░░░░   40.63 % 
-Makefile   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+
 ```
 <!--END_SECTION:waka-->
 
