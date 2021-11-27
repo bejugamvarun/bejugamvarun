@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 13 mins    ████████████████████████▓   98.80 % 
+
 ```
 <!--END_SECTION:waka-->
 
