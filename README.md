@@ -26,8 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML     1 min           █████████████░░░░░░░░░░░░   51.71 % 
-Docker   1 min           █████████░░░░░░░░░░░░░░░░   35.87 % 
+
 ```
 <!--END_SECTION:waka-->
 
