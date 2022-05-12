@@ -27,9 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           4 mins          ██████████████████████░░░   87.70 %
-Text         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
