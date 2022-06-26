@@ -27,8 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   4 mins          ████████████████████░░░░░   80.49 %
-Go           1 min           █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Git Config   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
